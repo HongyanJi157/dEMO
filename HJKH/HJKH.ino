@@ -19,7 +19,7 @@
  pinMode(replaceMaster,INPUT);
  
  
- 
+// making changes
  int lightSensor=0;
  int distanceSensor=1;
  int pos= 0;
